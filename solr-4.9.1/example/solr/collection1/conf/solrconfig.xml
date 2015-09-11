@@ -854,6 +854,7 @@
           <str name="echoParams">explicit</str>
           <int name="rows">50</int>
           <str name="fl">*,score</str>
+          <str name="df">text</str>
         </lst>
         <arr name="last-components">
           <str>spellcheck</str>
