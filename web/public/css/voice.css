@@ -1,0 +1,86 @@
+body {
+	background-color: #60AE2B;
+	margin: 0px;
+	padding: 0px;
+}
+
+#left {
+	background-color: #60AE2B;
+	width: 420px;
+	height: 100%;
+	position: absolute;
+	z-index: 1000;
+}
+
+#right {
+	background-color: #60AE2B;
+	width: 420px;
+	height: 100%;
+	position: absolute;
+	left: 1040px;
+	z-index: 1000;
+}
+
+#content {
+	background-color: #FFF;
+	margin-left: 420px;
+	width: 620px;
+	height: 100%;
+}
+
+#content #voiceInput{
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #F06AA7;
+	display: inline-block;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	position: relative;
+	top: 20px;
+	z-index: 900;
+}
+
+#content #header {
+	width: 620px;
+	height: 70px;
+	margin-top: 75px;
+}
+
+#content #header #homeBtn {
+	padding-top: 28px;
+	padding-left: 35px;
+	float:left;
+}
+
+#content #header #micBtn {
+	padding-top: 14px;
+	padding-left: 195px;
+	display: inline-block;
+}
+
+#content #header #cartBtn {
+	padding-top: 14px;
+	padding-right: 35px;
+	float:right;
+}
+
+#content #waves {
+	margin-left: -1260px;
+	mix-blend-mode: multiply;
+}
+
+#content #waves #line {
+	vertical-align: top;
+	margin-left: 620px;
+	display: inline-block;
+}
+
+#content #waves #wave {
+	vertical-align: top;
+	margin-top: -49px;
+	display: inline-block;
+	background-blend-mode: multiply;
+}

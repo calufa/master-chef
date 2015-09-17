@@ -1,3 +1,4 @@
-GET		/					controllers.Application.index()
-POST	/search				controllers.Application.search(query:String)
-GET		/search				controllers.Application.search(query:String)
+POST	/search					controllers.Application.search(query:String)
+GET		/search					controllers.Application.search(query:String)
+
+GET		/assets/*file			controllers.Assets.at(path="/public", file)

@@ -3,25 +3,16 @@ package controllers;
 
 
 
-
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 import play.mvc.Controller;
 import play.mvc.Result;
 import rabbit.utils.Download;
-import views.html.index;
 
 
 
 
 public class Application extends Controller {
-
-
-
-
-	public static Result index() {
-		return ok(index.render());
-	}
 
 
 
@@ -33,7 +24,7 @@ public class Application extends Controller {
 			response().setHeader("Access-Control-Allow-Origin", "*"); 
 			response().setHeader("Content-Type", "application/json");
 
-			String url = "http://104.197.48.101:8983/solr/master-chef/select?q=" + query + "&wt=json&rows=50";
+			String url = "http://localhost:8983/solr/collection1/select?q=" + query + "&wt=json&rows=50";
 			
 			System.out.println(url);
 			
