@@ -15867,3 +15867,795 @@ INFO  - 2015-09-16 23:59:53.066; org.apache.solr.core.SolrCore; [collection1] we
 INFO  - 2015-09-17 00:00:00.065; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=salsa+de+tomate&rows=50&wt=json} hits=1456 status=0 QTime=6 
 INFO  - 2015-09-17 00:00:12.517; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pasta+de+dientes&rows=50&wt=json} hits=1347 status=0 QTime=26 
 INFO  - 2015-09-17 00:00:24.832; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=mantequilla&rows=50&wt=json} hits=51 status=0 QTime=1 
+INFO  - 2015-09-17 00:00:52.971; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=ajonjolí&rows=50&wt=json} hits=1 status=0 QTime=1 
+INFO  - 2015-09-17 00:01:03.106; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 00:01:53.208; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Prepa+Sí&rows=50&wt=json} hits=0 status=0 QTime=5 
+INFO  - 2015-09-17 00:02:06.977; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=arepas&rows=50&wt=json} hits=11 status=0 QTime=1 
+INFO  - 2015-09-17 00:02:18.416; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=frijoles+molidos&rows=50&wt=json} hits=8 status=0 QTime=14 
+INFO  - 2015-09-17 00:02:55.679; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=azúcar&rows=50&wt=json} hits=1 status=0 QTime=1 
+INFO  - 2015-09-17 00:03:15.407; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=arepas&rows=50&wt=json} hits=11 status=0 QTime=0 
+INFO  - 2015-09-17 00:04:39.268; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 00:05:58.737; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=2 
+INFO  - 2015-09-17 00:06:59.612; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=arepas&rows=50&wt=json} hits=11 status=0 QTime=2 
+INFO  - 2015-09-17 00:09:11.099; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=papás&rows=50&wt=json} hits=0 status=0 QTime=4 
+INFO  - 2015-09-17 00:10:33.756; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=jabón+en+polvo&rows=50&wt=json} hits=504 status=0 QTime=6 
+INFO  - 2015-09-17 00:10:55.280; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=jarabe+para+la+tos&rows=50&wt=json} hits=344 status=0 QTime=2 
+INFO  - 2015-09-17 00:11:05.803; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=leche&rows=50&wt=json} hits=235 status=0 QTime=1 
+INFO  - 2015-09-17 00:12:01.142; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=ensalada&rows=50&wt=json} hits=13 status=0 QTime=1 
+INFO  - 2015-09-17 00:12:39.227; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=atún&rows=50&wt=json} hits=1 status=0 QTime=1 
+INFO  - 2015-09-17 00:13:40.898; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=salami&rows=50&wt=json} hits=2 status=0 QTime=1 
+INFO  - 2015-09-17 00:13:49.578; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pero+ni&rows=50&wt=json} hits=17 status=0 QTime=2 
+INFO  - 2015-09-17 00:14:00.372; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=mantequilla&rows=50&wt=json} hits=51 status=0 QTime=1 
+INFO  - 2015-09-17 00:14:42.546; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Colgate&rows=50&wt=json} hits=7 status=0 QTime=1 
+INFO  - 2015-09-17 00:15:30.725; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=dientes&rows=50&wt=json} hits=28 status=0 QTime=1 
+INFO  - 2015-09-17 00:15:46.093; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=cepillos+de+dientes&rows=50&wt=json} hits=1246 status=0 QTime=3 
+INFO  - 2015-09-17 00:15:59.197; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Oral+B&rows=50&wt=json} hits=44 status=0 QTime=3 
+INFO  - 2015-09-17 00:16:16.806; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Oral+B&rows=50&wt=json} hits=44 status=0 QTime=68 
+INFO  - 2015-09-17 00:16:29.646; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Aspirina&rows=50&wt=json} hits=4 status=0 QTime=3 
+INFO  - 2015-09-17 00:17:25.424; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pizza&rows=50&wt=json} hits=37 status=0 QTime=0 
+INFO  - 2015-09-17 00:17:39.279; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=vino&rows=50&wt=json} hits=2 status=0 QTime=1 
+INFO  - 2015-09-17 00:18:01.833; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=TubeMate&rows=50&wt=json} hits=0 status=0 QTime=3 
+INFO  - 2015-09-17 00:18:13.821; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=tomate&rows=50&wt=json} hits=77 status=0 QTime=1 
+INFO  - 2015-09-17 00:18:44.539; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pancakes&rows=50&wt=json} hits=5 status=0 QTime=0 
+INFO  - 2015-09-17 00:19:00.051; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=trabe&rows=50&wt=json} hits=0 status=0 QTime=3 
+INFO  - 2015-09-17 00:19:09.891; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=para+bebé&rows=50&wt=json} hits=236 status=0 QTime=2 
+INFO  - 2015-09-17 00:19:30.536; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=jarabe+para+la+tos&rows=50&wt=json} hits=344 status=0 QTime=1 
+INFO  - 2015-09-17 00:20:21.687; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pescado&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 00:24:53.606; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=papas+fritas&rows=50&wt=json} hits=24 status=0 QTime=16 
+INFO  - 2015-09-17 00:29:59.212; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=cálame&rows=50&wt=json} hits=0 status=0 QTime=44 
+INFO  - 2015-09-17 00:30:09.847; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=salami&rows=50&wt=json} hits=2 status=0 QTime=1 
+INFO  - 2015-09-17 00:32:52.294; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Hola&rows=50&wt=json} hits=0 status=0 QTime=5 
+INFO  - 2015-09-17 00:33:03.835; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pepinos&rows=50&wt=json} hits=0 status=0 QTime=10 
+INFO  - 2015-09-17 00:33:26.924; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Colgate&rows=50&wt=json} hits=7 status=0 QTime=1 
+INFO  - 2015-09-17 00:33:38.991; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Colgate+total&rows=50&wt=json} hits=38 status=0 QTime=9 
+INFO  - 2015-09-17 00:36:07.483; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=galleta+soda&rows=50&wt=json} hits=140 status=0 QTime=2 
+INFO  - 2015-09-17 00:40:19.375; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=comida+para+perros&rows=50&wt=json} hits=244 status=0 QTime=11 
+INFO  - 2015-09-17 00:42:57.070; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=en+salada&rows=50&wt=json} hits=334 status=0 QTime=1 
+INFO  - 2015-09-17 00:43:13.136; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=ensalada&rows=50&wt=json} hits=13 status=0 QTime=1 
+INFO  - 2015-09-17 00:43:26.371; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=gato&rows=50&wt=json} hits=19 status=0 QTime=1 
+INFO  - 2015-09-17 00:43:44.312; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Hola&rows=50&wt=json} hits=0 status=0 QTime=8 
+INFO  - 2015-09-17 00:57:19.218; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=laos&rows=50&wt=json} hits=0 status=0 QTime=40 
+INFO  - 2015-09-17 00:57:24.794; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=dados&rows=50&wt=json} hits=0 status=0 QTime=19 
+INFO  - 2015-09-17 00:57:30.946; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=helados&rows=50&wt=json} hits=1 status=0 QTime=1 
+INFO  - 2015-09-17 01:03:10.283; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pescado&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 01:05:50.142; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pescado&rows=50&wt=json} hits=24 status=0 QTime=8 
+INFO  - 2015-09-17 01:06:24.134; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pescado&rows=50&wt=json} hits=24 status=0 QTime=0 
+INFO  - 2015-09-17 01:06:31.017; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=lame&rows=50&wt=json} hits=0 status=0 QTime=13 
+INFO  - 2015-09-17 01:06:46.555; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=salame&rows=50&wt=json} hits=0 status=0 QTime=7 
+INFO  - 2015-09-17 01:07:41.770; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=salame&rows=50&wt=json} hits=0 status=0 QTime=8 
+INFO  - 2015-09-17 01:07:51.544; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=leche&rows=50&wt=json} hits=235 status=0 QTime=0 
+INFO  - 2015-09-17 01:08:07.131; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pride&rows=50&wt=json} hits=2 status=0 QTime=2 
+INFO  - 2015-09-17 01:08:25.154; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Hola&rows=50&wt=json} hits=0 status=0 QTime=4 
+INFO  - 2015-09-17 01:08:34.064; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 01:09:11.650; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=cepsi&rows=50&wt=json} hits=0 status=0 QTime=9 
+INFO  - 2015-09-17 01:09:19.840; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=epsi&rows=50&wt=json} hits=0 status=0 QTime=7 
+INFO  - 2015-09-17 01:09:26.287; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=sí&rows=50&wt=json} hits=0 status=0 QTime=0 
+INFO  - 2015-09-17 01:09:31.629; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=3 
+INFO  - 2015-09-17 01:09:39.816; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=right&rows=50&wt=json} hits=0 status=0 QTime=14 
+INFO  - 2015-09-17 01:09:50.761; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=raviolis&rows=50&wt=json} hits=4 status=0 QTime=1 
+INFO  - 2015-09-17 01:09:58.601; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Bart&rows=50&wt=json} hits=0 status=0 QTime=3 
+INFO  - 2015-09-17 01:10:04.483; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=mate&rows=50&wt=json} hits=11 status=0 QTime=2 
+INFO  - 2015-09-17 01:10:10.561; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=café&rows=50&wt=json} hits=2 status=0 QTime=0 
+INFO  - 2015-09-17 01:10:50.050; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=queso&rows=50&wt=json} hits=280 status=0 QTime=1 
+INFO  - 2015-09-17 01:12:00.870; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Y+eso+azul&rows=50&wt=json} hits=368 status=0 QTime=1 
+INFO  - 2015-09-17 01:12:11.566; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=ves+O+azul&rows=50&wt=json} hits=114 status=0 QTime=2 
+INFO  - 2015-09-17 01:13:04.532; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 01:14:04.715; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=mantequilla&rows=50&wt=json} hits=51 status=0 QTime=4 
+INFO  - 2015-09-17 01:14:14.321; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=queso&rows=50&wt=json} hits=280 status=0 QTime=2 
+INFO  - 2015-09-17 01:15:08.711; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=manzana&rows=50&wt=json} hits=107 status=0 QTime=1 
+INFO  - 2015-09-17 01:15:16.801; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=real&rows=50&wt=json} hits=6 status=0 QTime=1 
+INFO  - 2015-09-17 01:15:25.577; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=cereal&rows=50&wt=json} hits=87 status=0 QTime=1 
+INFO  - 2015-09-17 01:17:19.089; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=perro&rows=50&wt=json} hits=25 status=0 QTime=1 
+INFO  - 2015-09-17 01:17:37.807; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=salchicha&rows=50&wt=json} hits=67 status=0 QTime=1 
+INFO  - 2015-09-17 01:19:49.698; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pasta+de+dientes&rows=50&wt=json} hits=1347 status=0 QTime=1 
+INFO  - 2015-09-17 01:38:28.585; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=adiós&rows=50&wt=json} hits=0 status=0 QTime=26 
+INFO  - 2015-09-17 01:38:50.646; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=cansado&rows=50&wt=json} hits=0 status=0 QTime=14 
+INFO  - 2015-09-17 10:20:16.140; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=sandía&rows=50&wt=json} hits=0 status=0 QTime=27 
+INFO  - 2015-09-17 10:20:33.408; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 10:34:43.821; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=10 
+INFO  - 2015-09-17 10:40:40.881; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=gola&rows=50&wt=json} hits=1 status=0 QTime=12 
+INFO  - 2015-09-17 10:40:56.427; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=escuela&rows=50&wt=json} hits=0 status=0 QTime=41 
+INFO  - 2015-09-17 10:41:02.827; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=4 
+INFO  - 2015-09-17 10:41:18.278; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=cuento+infantil&rows=50&wt=json} hits=41 status=0 QTime=5 
+INFO  - 2015-09-17 10:41:33.899; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=4 
+INFO  - 2015-09-17 10:42:12.059; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 10:42:40.905; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=6 
+INFO  - 2015-09-17 10:43:52.663; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=koala&rows=50&wt=json} hits=0 status=0 QTime=44 
+INFO  - 2015-09-17 10:43:58.958; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=9 
+INFO  - 2015-09-17 10:44:26.806; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 10:44:49.028; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 10:45:04.184; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=4 
+INFO  - 2015-09-17 10:45:12.898; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=14 
+INFO  - 2015-09-17 10:45:39.900; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=7 
+INFO  - 2015-09-17 11:03:52.651; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=11 
+INFO  - 2015-09-17 11:04:12.972; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=la+cola&rows=50&wt=json} hits=129 status=0 QTime=10 
+INFO  - 2015-09-17 11:04:39.226; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 11:05:12.605; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 11:06:15.094; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=14 
+INFO  - 2015-09-17 11:06:34.142; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Hola&rows=50&wt=json} hits=0 status=0 QTime=32 
+INFO  - 2015-09-17 11:06:44.974; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=5 
+INFO  - 2015-09-17 11:07:07.468; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=5 
+INFO  - 2015-09-17 11:07:34.530; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 11:10:55.263; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=14 
+INFO  - 2015-09-17 11:11:35.948; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 11:11:39.067; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 11:11:51.873; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 11:12:10.808; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 11:12:22.366; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 11:12:33.401; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=6 
+INFO  - 2015-09-17 11:12:47.536; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 11:13:56.470; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=12 
+INFO  - 2015-09-17 11:14:14.115; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=4 
+INFO  - 2015-09-17 11:14:23.938; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 11:14:33.767; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=4 
+INFO  - 2015-09-17 11:14:37.126; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 11:14:45.251; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=6 
+INFO  - 2015-09-17 11:14:57.788; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=6 
+INFO  - 2015-09-17 11:15:18.983; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=4 
+INFO  - 2015-09-17 11:15:28.591; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 11:15:55.224; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 11:16:15.656; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=4 
+INFO  - 2015-09-17 11:16:28.956; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 11:16:52.829; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 11:17:14.151; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=5 
+INFO  - 2015-09-17 11:17:20.232; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=4 
+INFO  - 2015-09-17 11:17:26.477; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 11:18:55.502; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=5 
+INFO  - 2015-09-17 11:22:17.220; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=19 
+INFO  - 2015-09-17 11:22:30.128; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=4 
+INFO  - 2015-09-17 11:22:42.756; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=9 
+INFO  - 2015-09-17 11:22:56.834; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=8 
+INFO  - 2015-09-17 11:23:44.066; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=5 
+INFO  - 2015-09-17 11:24:09.210; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=6 
+INFO  - 2015-09-17 11:24:22.321; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=7 
+INFO  - 2015-09-17 11:24:59.470; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 11:25:02.786; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 11:25:22.514; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=7 
+INFO  - 2015-09-17 11:25:30.749; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 11:27:34.174; org.eclipse.jetty.server.Server; Graceful shutdown SocketConnector@0.0.0.0:8983
+INFO  - 2015-09-17 11:27:34.232; org.eclipse.jetty.server.Server; Graceful shutdown o.e.j.w.WebAppContext{/solr,file:/Users/carlos/master-chef/solr-4.9.1/example/solr-webapp/webapp/},/Users/carlos/master-chef/solr-4.9.1/example/webapps/solr.war
+INFO  - 2015-09-17 11:27:35.241; org.apache.solr.core.CoreContainer; Shutting down CoreContainer instance=1714113641
+INFO  - 2015-09-17 11:27:35.251; org.apache.solr.core.SolrCore; [collection1]  CLOSING SolrCore org.apache.solr.core.SolrCore@79328689
+INFO  - 2015-09-17 11:27:35.262; org.apache.solr.update.DirectUpdateHandler2; closing DirectUpdateHandler2{commits=0,autocommit maxTime=15000ms,autocommits=0,soft autocommits=0,optimizes=0,rollbacks=0,expungeDeletes=0,docsPending=0,adds=0,deletesById=0,deletesByQuery=0,errors=0,cumulative_adds=0,cumulative_deletesById=0,cumulative_deletesByQuery=0,cumulative_errors=0,transaction_logs_total_size=132370,transaction_logs_total_number=1}
+INFO  - 2015-09-17 11:27:35.269; org.apache.solr.update.SolrCoreState; Closing SolrCoreState
+INFO  - 2015-09-17 11:27:35.270; org.apache.solr.update.DefaultSolrCoreState; SolrCoreState ref count has reached 0 - closing IndexWriter
+INFO  - 2015-09-17 11:27:35.270; org.apache.solr.update.DefaultSolrCoreState; closing IndexWriter with IndexWriterCloser
+INFO  - 2015-09-17 11:27:35.291; org.apache.solr.core.SolrCore; [collection1] Closing main searcher on request.
+INFO  - 2015-09-17 11:27:35.312; org.apache.solr.core.CachingDirectoryFactory; Closing NRTCachingDirectoryFactory - 2 directories currently being tracked
+INFO  - 2015-09-17 11:27:35.314; org.apache.solr.core.CachingDirectoryFactory; looking to close /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index [CachedDir<<refCount=0;path=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index;done=false>>]
+INFO  - 2015-09-17 11:27:35.314; org.apache.solr.core.CachingDirectoryFactory; Closing directory: /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index
+INFO  - 2015-09-17 11:27:35.314; org.apache.solr.core.CachingDirectoryFactory; looking to close /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data [CachedDir<<refCount=0;path=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data;done=false>>]
+INFO  - 2015-09-17 11:27:35.314; org.apache.solr.core.CachingDirectoryFactory; Closing directory: /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data
+INFO  - 2015-09-17 11:27:35.324; org.eclipse.jetty.server.handler.ContextHandler; stopped o.e.j.w.WebAppContext{/solr,file:/Users/carlos/master-chef/solr-4.9.1/example/solr-webapp/webapp/},/Users/carlos/master-chef/solr-4.9.1/example/webapps/solr.war
+INFO  - 2015-09-17 11:41:56.575; org.eclipse.jetty.server.Server; jetty-8.1.10.v20130312
+INFO  - 2015-09-17 11:41:56.598; org.eclipse.jetty.deploy.providers.ScanningAppProvider; Deployment monitor /Users/carlos/master-chef/solr-4.9.1/example/contexts at interval 0
+INFO  - 2015-09-17 11:41:56.603; org.eclipse.jetty.deploy.DeploymentManager; Deployable added: /Users/carlos/master-chef/solr-4.9.1/example/contexts/solr-jetty-context.xml
+INFO  - 2015-09-17 11:41:57.624; org.eclipse.jetty.webapp.StandardDescriptorProcessor; NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
+INFO  - 2015-09-17 11:41:57.679; org.apache.solr.servlet.SolrDispatchFilter; SolrDispatchFilter.init()
+INFO  - 2015-09-17 11:41:57.693; org.apache.solr.core.SolrResourceLoader; JNDI not configured for solr (NoInitialContextEx)
+INFO  - 2015-09-17 11:41:57.693; org.apache.solr.core.SolrResourceLoader; solr home defaulted to 'solr/' (could not find system property or JNDI)
+INFO  - 2015-09-17 11:41:57.694; org.apache.solr.core.SolrResourceLoader; new SolrResourceLoader for directory: 'solr/'
+INFO  - 2015-09-17 11:41:57.815; org.apache.solr.core.ConfigSolr; Loading container configuration from /Users/carlos/master-chef/solr-4.9.1/example/solr/solr.xml
+INFO  - 2015-09-17 11:41:57.933; org.apache.solr.core.CorePropertiesLocator; Config-defined core root directory: /Users/carlos/master-chef/solr-4.9.1/example/solr
+INFO  - 2015-09-17 11:41:57.939; org.apache.solr.core.CoreContainer; New CoreContainer 1714113641
+INFO  - 2015-09-17 11:41:57.940; org.apache.solr.core.CoreContainer; Loading cores into CoreContainer [instanceDir=solr/]
+INFO  - 2015-09-17 11:41:57.952; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting socketTimeout to: 0
+INFO  - 2015-09-17 11:41:57.952; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting urlScheme to: null
+INFO  - 2015-09-17 11:41:57.957; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting connTimeout to: 0
+INFO  - 2015-09-17 11:41:57.958; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting maxConnectionsPerHost to: 20
+INFO  - 2015-09-17 11:41:57.960; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting corePoolSize to: 0
+INFO  - 2015-09-17 11:41:57.960; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting maximumPoolSize to: 2147483647
+INFO  - 2015-09-17 11:41:57.960; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting maxThreadIdleTime to: 5
+INFO  - 2015-09-17 11:41:57.961; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting sizeOfQueue to: -1
+INFO  - 2015-09-17 11:41:57.961; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting fairnessPolicy to: false
+INFO  - 2015-09-17 11:41:58.059; org.apache.solr.logging.LogWatcher; SLF4J impl is org.slf4j.impl.Log4jLoggerFactory
+INFO  - 2015-09-17 11:41:58.060; org.apache.solr.logging.LogWatcher; Registering Log Listener [Log4j (org.slf4j.impl.Log4jLoggerFactory)]
+INFO  - 2015-09-17 11:41:58.061; org.apache.solr.core.CoreContainer; Host Name: 
+INFO  - 2015-09-17 11:41:58.100; org.apache.solr.core.CorePropertiesLocator; Looking for core definitions underneath /Users/carlos/master-chef/solr-4.9.1/example/solr
+INFO  - 2015-09-17 11:41:58.109; org.apache.solr.core.CorePropertiesLocator; Found core collection1 in /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/
+INFO  - 2015-09-17 11:41:58.110; org.apache.solr.core.CorePropertiesLocator; Found core products in /Users/carlos/master-chef/solr-4.9.1/example/solr/products/
+INFO  - 2015-09-17 11:41:58.111; org.apache.solr.core.CorePropertiesLocator; Found 2 core definitions
+INFO  - 2015-09-17 11:41:58.112; org.apache.solr.core.SolrResourceLoader; new SolrResourceLoader for directory: '/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/'
+INFO  - 2015-09-17 11:41:58.112; org.apache.solr.core.SolrResourceLoader; new SolrResourceLoader for directory: '/Users/carlos/master-chef/solr-4.9.1/example/solr/products/'
+ERROR - 2015-09-17 11:41:58.123; org.apache.solr.core.CoreContainer; Unable to create core: products
+org.apache.solr.common.SolrException: Could not load core configuration for core products
+	at org.apache.solr.core.ConfigSetService.getConfig(ConfigSetService.java:66)
+	at org.apache.solr.core.CoreContainer.create(CoreContainer.java:554)
+	at org.apache.solr.core.CoreContainer$1.call(CoreContainer.java:261)
+	at org.apache.solr.core.CoreContainer$1.call(CoreContainer.java:253)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.solr.common.SolrException: Error loading solr config from /Users/carlos/master-chef/solr-4.9.1/example/solr/products/solrconfig.xml
+	at org.apache.solr.core.SolrConfig.readFromResourceLoader(SolrConfig.java:148)
+	at org.apache.solr.core.ConfigSetService.createSolrConfig(ConfigSetService.java:79)
+	at org.apache.solr.core.ConfigSetService.getConfig(ConfigSetService.java:61)
+	... 9 more
+Caused by: java.io.IOException: Can't find resource 'solrconfig.xml' in classpath or '/Users/carlos/master-chef/solr-4.9.1/example/solr/products/conf'
+	at org.apache.solr.core.SolrResourceLoader.openResource(SolrResourceLoader.java:362)
+	at org.apache.solr.core.SolrResourceLoader.openConfig(SolrResourceLoader.java:308)
+	at org.apache.solr.core.Config.<init>(Config.java:116)
+	at org.apache.solr.core.Config.<init>(Config.java:86)
+	at org.apache.solr.core.SolrConfig.<init>(SolrConfig.java:161)
+	at org.apache.solr.core.SolrConfig.readFromResourceLoader(SolrConfig.java:144)
+	... 11 more
+ERROR - 2015-09-17 11:41:58.127; org.apache.solr.common.SolrException; null:org.apache.solr.common.SolrException: Unable to create core: products
+	at org.apache.solr.core.CoreContainer.recordAndThrow(CoreContainer.java:911)
+	at org.apache.solr.core.CoreContainer.create(CoreContainer.java:568)
+	at org.apache.solr.core.CoreContainer$1.call(CoreContainer.java:261)
+	at org.apache.solr.core.CoreContainer$1.call(CoreContainer.java:253)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.solr.common.SolrException: Could not load core configuration for core products
+	at org.apache.solr.core.ConfigSetService.getConfig(ConfigSetService.java:66)
+	at org.apache.solr.core.CoreContainer.create(CoreContainer.java:554)
+	... 8 more
+Caused by: org.apache.solr.common.SolrException: Error loading solr config from /Users/carlos/master-chef/solr-4.9.1/example/solr/products/solrconfig.xml
+	at org.apache.solr.core.SolrConfig.readFromResourceLoader(SolrConfig.java:148)
+	at org.apache.solr.core.ConfigSetService.createSolrConfig(ConfigSetService.java:79)
+	at org.apache.solr.core.ConfigSetService.getConfig(ConfigSetService.java:61)
+	... 9 more
+Caused by: java.io.IOException: Can't find resource 'solrconfig.xml' in classpath or '/Users/carlos/master-chef/solr-4.9.1/example/solr/products/conf'
+	at org.apache.solr.core.SolrResourceLoader.openResource(SolrResourceLoader.java:362)
+	at org.apache.solr.core.SolrResourceLoader.openConfig(SolrResourceLoader.java:308)
+	at org.apache.solr.core.Config.<init>(Config.java:116)
+	at org.apache.solr.core.Config.<init>(Config.java:86)
+	at org.apache.solr.core.SolrConfig.<init>(SolrConfig.java:161)
+	at org.apache.solr.core.SolrConfig.readFromResourceLoader(SolrConfig.java:144)
+	... 11 more
+
+INFO  - 2015-09-17 11:41:58.182; org.apache.solr.core.SolrConfig; Adding specified lib dirs to ClassLoader
+INFO  - 2015-09-17 11:41:58.185; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/apache-mime4j-core-0.7.2.jar' to classloader
+INFO  - 2015-09-17 11:41:58.185; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/apache-mime4j-dom-0.7.2.jar' to classloader
+INFO  - 2015-09-17 11:41:58.185; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/aspectjrt-1.6.11.jar' to classloader
+INFO  - 2015-09-17 11:41:58.186; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/bcmail-jdk15-1.45.jar' to classloader
+INFO  - 2015-09-17 11:41:58.186; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/bcprov-jdk15-1.45.jar' to classloader
+INFO  - 2015-09-17 11:41:58.186; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/boilerpipe-1.1.0.jar' to classloader
+INFO  - 2015-09-17 11:41:58.187; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/commons-compress-1.7.jar' to classloader
+INFO  - 2015-09-17 11:41:58.187; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/dom4j-1.6.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.187; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/fontbox-1.8.4.jar' to classloader
+INFO  - 2015-09-17 11:41:58.188; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/icu4j-53.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.188; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/isoparser-1.0-RC-1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.188; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/jdom-1.0.jar' to classloader
+INFO  - 2015-09-17 11:41:58.188; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/jempbox-1.8.4.jar' to classloader
+INFO  - 2015-09-17 11:41:58.189; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/jhighlight-1.0.jar' to classloader
+INFO  - 2015-09-17 11:41:58.189; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/juniversalchardet-1.0.3.jar' to classloader
+INFO  - 2015-09-17 11:41:58.189; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/metadata-extractor-2.6.2.jar' to classloader
+INFO  - 2015-09-17 11:41:58.189; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/pdfbox-1.8.4.jar' to classloader
+INFO  - 2015-09-17 11:41:58.190; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/poi-3.10.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.190; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/poi-ooxml-3.10.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.190; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/poi-ooxml-schemas-3.10.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.190; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/poi-scratchpad-3.10.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.191; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/rome-0.9.jar' to classloader
+INFO  - 2015-09-17 11:41:58.191; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/tagsoup-1.2.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.191; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/tika-core-1.5.jar' to classloader
+INFO  - 2015-09-17 11:41:58.192; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/tika-parsers-1.5.jar' to classloader
+INFO  - 2015-09-17 11:41:58.192; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/tika-xmp-1.5.jar' to classloader
+INFO  - 2015-09-17 11:41:58.192; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/vorbis-java-core-0.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.192; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/vorbis-java-tika-0.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.193; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/xercesImpl-2.9.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.193; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/xmlbeans-2.6.0.jar' to classloader
+INFO  - 2015-09-17 11:41:58.193; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/xmpcore-5.1.2.jar' to classloader
+INFO  - 2015-09-17 11:41:58.194; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/xz-1.4.jar' to classloader
+INFO  - 2015-09-17 11:41:58.195; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/dist/solr-cell-4.9.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.197; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/attributes-binder-1.2.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.197; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/carrot2-mini-3.9.0.jar' to classloader
+INFO  - 2015-09-17 11:41:58.197; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/hppc-0.5.2.jar' to classloader
+INFO  - 2015-09-17 11:41:58.198; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/jackson-core-asl-1.9.13.jar' to classloader
+INFO  - 2015-09-17 11:41:58.198; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/jackson-mapper-asl-1.9.13.jar' to classloader
+INFO  - 2015-09-17 11:41:58.199; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/mahout-collections-1.0.jar' to classloader
+INFO  - 2015-09-17 11:41:58.199; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/mahout-math-0.6.jar' to classloader
+INFO  - 2015-09-17 11:41:58.200; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/simple-xml-2.7.jar' to classloader
+INFO  - 2015-09-17 11:41:58.200; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/dist/solr-clustering-4.9.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.201; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/langid/lib/jsonic-1.2.7.jar' to classloader
+INFO  - 2015-09-17 11:41:58.201; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/langid/lib/langdetect-1.1-20120112.jar' to classloader
+INFO  - 2015-09-17 11:41:58.202; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/dist/solr-langid-4.9.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.203; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/velocity/lib/commons-beanutils-1.8.3.jar' to classloader
+INFO  - 2015-09-17 11:41:58.203; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/velocity/lib/commons-collections-3.2.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.203; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/velocity/lib/velocity-1.7.jar' to classloader
+INFO  - 2015-09-17 11:41:58.204; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/velocity/lib/velocity-tools-2.0.jar' to classloader
+INFO  - 2015-09-17 11:41:58.204; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/dist/solr-velocity-4.9.1.jar' to classloader
+INFO  - 2015-09-17 11:41:58.330; org.apache.solr.update.SolrIndexConfig; IndexWriter infoStream solr logging is enabled
+INFO  - 2015-09-17 11:41:58.336; org.apache.solr.core.SolrConfig; Using Lucene MatchVersion: LUCENE_4_9
+INFO  - 2015-09-17 11:41:58.458; org.apache.solr.core.SolrConfig; Loaded SolrConfig: solrconfig.xml
+INFO  - 2015-09-17 11:41:58.463; org.apache.solr.schema.IndexSchema; Reading Solr Schema from schema.xml
+INFO  - 2015-09-17 11:41:58.516; org.apache.solr.schema.IndexSchema; [collection1] Schema name=example
+INFO  - 2015-09-17 11:41:59.022; org.apache.solr.schema.IndexSchema; unique key field: id
+INFO  - 2015-09-17 11:41:59.135; org.apache.solr.rest.RestManager$Registry; Registered ManagedResource impl org.apache.solr.rest.schema.analysis.ManagedWordSetResource for path /schema/analysis/stopwords/english
+INFO  - 2015-09-17 11:41:59.136; org.apache.solr.rest.RestManager$Registry; Registered ManagedResource impl org.apache.solr.rest.schema.analysis.ManagedSynonymFilterFactory$SynonymManager for path /schema/analysis/synonyms/english
+INFO  - 2015-09-17 11:41:59.169; org.apache.solr.schema.FileExchangeRateProvider; Reloading exchange rates from file currency.xml
+INFO  - 2015-09-17 11:41:59.174; org.apache.solr.schema.FileExchangeRateProvider; Reloading exchange rates from file currency.xml
+INFO  - 2015-09-17 11:41:59.258; org.apache.solr.core.CoreContainer; Creating SolrCore 'collection1' using configuration from instancedir /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/
+INFO  - 2015-09-17 11:41:59.340; org.apache.solr.core.SolrCore; solr.NRTCachingDirectoryFactory
+INFO  - 2015-09-17 11:41:59.347; org.apache.solr.core.SolrCore; [collection1] Opening new SolrCore at /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/, dataDir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/
+INFO  - 2015-09-17 11:41:59.349; org.apache.solr.core.JmxMonitoredMap; No JMX servers found, not exposing Solr information with JMX.
+INFO  - 2015-09-17 11:41:59.354; org.apache.solr.core.SolrCore; [collection1] Added SolrEventListener for newSearcher: org.apache.solr.core.QuerySenderListener{queries=[]}
+INFO  - 2015-09-17 11:41:59.355; org.apache.solr.core.SolrCore; [collection1] Added SolrEventListener for firstSearcher: org.apache.solr.core.QuerySenderListener{queries=[{q=static firstSearcher warming in solrconfig.xml}]}
+INFO  - 2015-09-17 11:41:59.369; org.apache.solr.core.CachingDirectoryFactory; return new directory for /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data
+INFO  - 2015-09-17 11:41:59.377; org.apache.solr.core.SolrCore; New index directory detected: old=null new=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index/
+INFO  - 2015-09-17 11:41:59.379; org.apache.solr.core.CachingDirectoryFactory; return new directory for /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index
+INFO  - 2015-09-17 11:41:59.400; org.apache.solr.core.SolrCore; created json: solr.JSONResponseWriter
+INFO  - 2015-09-17 11:41:59.400; org.apache.solr.core.SolrCore; adding lazy queryResponseWriter: solr.VelocityResponseWriter
+INFO  - 2015-09-17 11:41:59.401; org.apache.solr.core.SolrCore; created velocity: solr.VelocityResponseWriter
+INFO  - 2015-09-17 11:41:59.404; org.apache.solr.core.SolrCore; created xslt: solr.XSLTResponseWriter
+INFO  - 2015-09-17 11:41:59.404; org.apache.solr.response.XSLTResponseWriter; xsltCacheLifetimeSeconds=5
+INFO  - 2015-09-17 11:41:59.487; org.apache.solr.core.SolrCore; no updateRequestProcessorChain defined as default, creating implicit default
+INFO  - 2015-09-17 11:41:59.492; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.492; org.apache.solr.core.RequestHandlers; created /select: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.496; org.apache.solr.core.RequestHandlers; created /query: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.497; org.apache.solr.core.RequestHandlers; created /get: solr.RealTimeGetHandler
+INFO  - 2015-09-17 11:41:59.497; org.apache.solr.core.RequestHandlers; created /browse: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.499; org.apache.solr.core.RequestHandlers; created /update: solr.UpdateRequestHandler
+INFO  - 2015-09-17 11:41:59.500; org.apache.solr.core.RequestHandlers; created /update/json: solr.UpdateRequestHandler
+INFO  - 2015-09-17 11:41:59.500; org.apache.solr.core.RequestHandlers; created /update/csv: solr.UpdateRequestHandler
+INFO  - 2015-09-17 11:41:59.500; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.extraction.ExtractingRequestHandler
+INFO  - 2015-09-17 11:41:59.501; org.apache.solr.core.RequestHandlers; created /update/extract: solr.extraction.ExtractingRequestHandler
+INFO  - 2015-09-17 11:41:59.501; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.FieldAnalysisRequestHandler
+INFO  - 2015-09-17 11:41:59.501; org.apache.solr.core.RequestHandlers; created /analysis/field: solr.FieldAnalysisRequestHandler
+INFO  - 2015-09-17 11:41:59.501; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.DocumentAnalysisRequestHandler
+INFO  - 2015-09-17 11:41:59.502; org.apache.solr.core.RequestHandlers; created /analysis/document: solr.DocumentAnalysisRequestHandler
+INFO  - 2015-09-17 11:41:59.503; org.apache.solr.core.RequestHandlers; created /admin/: solr.admin.AdminHandlers
+INFO  - 2015-09-17 11:41:59.505; org.apache.solr.core.RequestHandlers; created /admin/ping: solr.PingRequestHandler
+INFO  - 2015-09-17 11:41:59.507; org.apache.solr.core.RequestHandlers; created /debug/dump: solr.DumpRequestHandler
+INFO  - 2015-09-17 11:41:59.519; org.apache.solr.core.RequestHandlers; created /replication: solr.ReplicationHandler
+INFO  - 2015-09-17 11:41:59.519; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.519; org.apache.solr.core.RequestHandlers; created /spell: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.519; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.520; org.apache.solr.core.RequestHandlers; created /suggest: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.520; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.520; org.apache.solr.core.RequestHandlers; created /tvrh: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.520; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.520; org.apache.solr.core.RequestHandlers; created /terms: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.520; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.521; org.apache.solr.core.RequestHandlers; created /elevate: solr.SearchHandler
+INFO  - 2015-09-17 11:41:59.540; org.apache.solr.handler.loader.XMLLoader; xsltCacheLifetimeSeconds=60
+INFO  - 2015-09-17 11:41:59.542; org.apache.solr.handler.loader.XMLLoader; xsltCacheLifetimeSeconds=60
+INFO  - 2015-09-17 11:41:59.543; org.apache.solr.handler.loader.XMLLoader; xsltCacheLifetimeSeconds=60
+INFO  - 2015-09-17 11:41:59.571; org.apache.solr.update.CommitTracker; Hard AutoCommit: if uncommited for 15000ms; 
+INFO  - 2015-09-17 11:41:59.571; org.apache.solr.update.CommitTracker; Soft AutoCommit: disabled
+INFO  - 2015-09-17 11:41:59.621; org.apache.solr.core.SolrDeletionPolicy; SolrDeletionPolicy.onInit: commits: num=1
+	commit{dir=NRTCachingDirectory(MMapDirectory@/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index lockFactory=NativeFSLockFactory@/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index; maxCacheMB=48.0 maxMergeSizeMB=4.0),segFN=segments_4,generation=4}
+INFO  - 2015-09-17 11:41:59.622; org.apache.solr.core.SolrDeletionPolicy; newest commit generation = 4
+INFO  - 2015-09-17 11:41:59.660; org.apache.solr.search.SolrIndexSearcher; Opening Searcher@46decab9[collection1] main
+INFO  - 2015-09-17 11:41:59.669; org.apache.solr.rest.ManagedResourceStorage$FileStorageIO; File-based storage initialized to use dir: /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+INFO  - 2015-09-17 11:41:59.669; org.apache.solr.rest.RestManager; Initializing RestManager with initArgs: {storageDir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf/}
+INFO  - 2015-09-17 11:41:59.671; org.apache.solr.rest.ManagedResourceStorage; Reading _rest_managed.json using file:dir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+WARN  - 2015-09-17 11:41:59.671; org.apache.solr.rest.ManagedResource; No stored data found for /rest/managed
+WARN  - 2015-09-17 11:41:59.671; org.apache.solr.rest.ManagedResource; No registered observers for /rest/managed
+INFO  - 2015-09-17 11:41:59.672; org.apache.solr.rest.RestManager; Initializing 2 registered ManagedResources
+INFO  - 2015-09-17 11:41:59.672; org.apache.solr.rest.ManagedResourceStorage; Reading _schema_analysis_stopwords_english.json using file:dir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+INFO  - 2015-09-17 11:41:59.677; org.apache.solr.rest.ManagedResourceStorage; Loaded LinkedHashMap at path _schema_analysis_stopwords_english.json using file:dir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+INFO  - 2015-09-17 11:41:59.677; org.apache.solr.rest.ManagedResource; Loaded initArgs {ignoreCase=true} for /schema/analysis/stopwords/english
+INFO  - 2015-09-17 11:41:59.677; org.apache.solr.rest.schema.analysis.ManagedWordSetResource; Loaded 35 words for /schema/analysis/stopwords/english
+INFO  - 2015-09-17 11:41:59.678; org.apache.solr.rest.ManagedResource; Notified 1 observers of /schema/analysis/stopwords/english
+INFO  - 2015-09-17 11:41:59.678; org.apache.solr.rest.ManagedResourceStorage; Reading _schema_analysis_synonyms_english.json using file:dir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+INFO  - 2015-09-17 11:41:59.679; org.apache.solr.rest.ManagedResourceStorage; Loaded LinkedHashMap at path _schema_analysis_synonyms_english.json using file:dir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+INFO  - 2015-09-17 11:41:59.679; org.apache.solr.rest.ManagedResource; Loaded initArgs {ignoreCase=true,format=solr} for /schema/analysis/synonyms/english
+INFO  - 2015-09-17 11:41:59.680; org.apache.solr.rest.schema.analysis.ManagedSynonymFilterFactory$SynonymManager; Loaded 3 synonym mappings for /schema/analysis/synonyms/english
+INFO  - 2015-09-17 11:41:59.682; org.apache.solr.rest.ManagedResource; Notified 1 observers of /schema/analysis/synonyms/english
+INFO  - 2015-09-17 11:41:59.682; org.apache.solr.handler.component.SpellCheckComponent; Initializing spell checkers
+INFO  - 2015-09-17 11:41:59.687; org.apache.solr.spelling.DirectSolrSpellChecker; init: {name=default,field=text,classname=solr.DirectSolrSpellChecker,distanceMeasure=internal,accuracy=0.5,maxEdits=2,minPrefix=1,maxInspections=5,minQueryLength=4,maxQueryFrequency=0.01}
+INFO  - 2015-09-17 11:41:59.693; org.apache.solr.handler.component.SpellCheckComponent; No queryConverter defined, using default converter
+INFO  - 2015-09-17 11:41:59.694; org.apache.solr.handler.component.SuggestComponent; Initializing SuggestComponent
+INFO  - 2015-09-17 11:41:59.695; org.apache.solr.spelling.suggest.SolrSuggester; init: {name=mySuggester,lookupImpl=FuzzyLookupFactory,dictionaryImpl=DocumentDictionaryFactory,field=cat,weightField=price,suggestAnalyzerFieldType=string}
+INFO  - 2015-09-17 11:41:59.707; org.apache.solr.spelling.suggest.SolrSuggester; Dictionary loaded with params: {name=mySuggester,lookupImpl=FuzzyLookupFactory,dictionaryImpl=DocumentDictionaryFactory,field=cat,weightField=price,suggestAnalyzerFieldType=string}
+INFO  - 2015-09-17 11:41:59.709; org.apache.solr.handler.component.QueryElevationComponent; Loading QueryElevation from: /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf/elevate.xml
+INFO  - 2015-09-17 11:41:59.736; org.apache.solr.handler.ReplicationHandler; Commits will be reserved for  10000
+INFO  - 2015-09-17 11:41:59.737; org.apache.solr.core.QuerySenderListener; QuerySenderListener sending requests to Searcher@46decab9[collection1] main{StandardDirectoryReader(segments_4:30:nrt _b(4.9):C13813 _a(4.9):C954)}
+INFO  - 2015-09-17 11:41:59.737; org.apache.solr.core.CoreContainer; registering core: collection1
+INFO  - 2015-09-17 11:41:59.739; org.apache.solr.servlet.SolrDispatchFilter; user.dir=/Users/carlos/master-chef/solr-4.9.1/example
+INFO  - 2015-09-17 11:41:59.740; org.apache.solr.servlet.SolrDispatchFilter; SolrDispatchFilter.init() done
+INFO  - 2015-09-17 11:41:59.772; org.eclipse.jetty.server.AbstractConnector; Started SocketConnector@0.0.0.0:8983
+INFO  - 2015-09-17 11:41:59.886; org.apache.solr.core.SolrCore; [collection1] webapp=null path=null params={q=static+firstSearcher+warming+in+solrconfig.xml&distrib=false&event=firstSearcher} hits=11 status=0 QTime=148 
+INFO  - 2015-09-17 11:41:59.907; org.apache.solr.core.QuerySenderListener; QuerySenderListener done.
+INFO  - 2015-09-17 11:41:59.908; org.apache.solr.handler.component.SpellCheckComponent$SpellCheckerListener; Loading spell index for spellchecker: default
+INFO  - 2015-09-17 11:41:59.908; org.apache.solr.handler.component.SpellCheckComponent$SpellCheckerListener; Loading spell index for spellchecker: wordbreak
+INFO  - 2015-09-17 11:41:59.908; org.apache.solr.handler.component.SuggestComponent$SuggesterListener; Loading suggester index for: mySuggester
+INFO  - 2015-09-17 11:41:59.908; org.apache.solr.spelling.suggest.SolrSuggester; reload()
+INFO  - 2015-09-17 11:41:59.909; org.apache.solr.spelling.suggest.SolrSuggester; build()
+INFO  - 2015-09-17 11:42:00.268; org.apache.solr.core.SolrCore; [collection1] Registered new searcher Searcher@46decab9[collection1] main{StandardDirectoryReader(segments_4:30:nrt _b(4.9):C13813 _a(4.9):C954)}
+INFO  - 2015-09-17 11:42:34.881; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=10 
+INFO  - 2015-09-17 11:50:53.099; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=17 
+INFO  - 2015-09-17 12:00:49.860; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 12:00:52.573; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:01:18.060; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 12:01:34.114; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:01:51.637; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=8 
+INFO  - 2015-09-17 12:06:47.028; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 12:07:17.728; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:07:19.931; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:08:09.419; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:08:30.294; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:08:43.815; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:08:56.715; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 12:11:03.180; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:11:33.242; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:11:41.104; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:12:24.989; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:13:04.584; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 12:14:24.073; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:14:50.259; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=4 
+INFO  - 2015-09-17 12:15:27.382; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:15:51.449; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:16:19.847; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 12:17:20.528; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:17:26.280; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:17:38.775; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:19:13.950; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:20:01.494; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:20:06.974; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:20:09.872; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:20:25.781; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:20:30.263; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:20:36.508; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=sexy&rows=50&wt=json} hits=7 status=0 QTime=3 
+INFO  - 2015-09-17 12:20:42.744; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=6 
+INFO  - 2015-09-17 12:21:07.613; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 12:21:33.481; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 12:22:13.022; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:22:16.345; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:22:27.883; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:22:35.439; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi+Pepsi&rows=50&wt=json} hits=5 status=0 QTime=2 
+INFO  - 2015-09-17 12:22:36.072; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:22:41.433; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=2 
+INFO  - 2015-09-17 12:22:59.015; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:23:08.480; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:23:15.077; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=1 
+INFO  - 2015-09-17 12:23:31.797; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:23:37.268; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=persi&rows=50&wt=json} hits=0 status=0 QTime=11 
+INFO  - 2015-09-17 12:23:49.538; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:23:54.172; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:23:59.004; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=1 
+INFO  - 2015-09-17 12:24:05.033; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:24:15.358; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Betsy&rows=50&wt=json} hits=0 status=0 QTime=9 
+INFO  - 2015-09-17 12:24:30.594; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-17 12:24:36.133; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=1 
+INFO  - 2015-09-17 12:24:37.978; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:24:42.840; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=vebsi&rows=50&wt=json} hits=0 status=0 QTime=6 
+INFO  - 2015-09-17 12:25:03.253; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=2 
+INFO  - 2015-09-17 12:25:58.045; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:26:22.223; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:26:25.180; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:26:30.309; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=0 
+INFO  - 2015-09-17 12:27:43.349; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=2 
+INFO  - 2015-09-17 12:27:48.783; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=persi&rows=50&wt=json} hits=0 status=0 QTime=6 
+INFO  - 2015-09-17 12:28:05.364; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:28:10.531; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Proxy&rows=50&wt=json} hits=0 status=0 QTime=11 
+INFO  - 2015-09-17 12:28:18.589; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=0 
+INFO  - 2015-09-17 12:28:23.437; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=2 
+INFO  - 2015-09-17 12:28:34.532; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:28:39.521; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=1 
+INFO  - 2015-09-17 12:28:45.540; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:29:07.924; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:29:13.069; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:29:17.264; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 12:29:23.129; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=maquillaje&rows=50&wt=json} hits=7 status=0 QTime=2 
+INFO  - 2015-09-17 12:52:20.519; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Coca+Cola&rows=50&wt=json} hits=24 status=0 QTime=4 
+INFO  - 2015-09-17 12:56:06.587; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=ayuno+se+me+pegó+la+gana&rows=50&wt=json} hits=125 status=0 QTime=23 
+INFO  - 2015-09-17 12:56:34.223; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Gloria+me+mandó+él+me+mandó+un+mensaje+el+curioso&rows=50&wt=json} hits=83 status=0 QTime=29 
+INFO  - 2015-09-17 12:57:50.300; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=iaai+Iracundos+con+él&rows=50&wt=json} hits=456 status=0 QTime=13 
+INFO  - 2015-09-17 12:58:05.699; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=la+huerta&rows=50&wt=json} hits=105 status=0 QTime=8 
+INFO  - 2015-09-17 12:58:23.915; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=y&rows=50&wt=json} hits=305 status=0 QTime=1 
+INFO  - 2015-09-17 12:58:35.064; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=México&rows=50&wt=json} hits=0 status=0 QTime=5 
+INFO  - 2015-09-17 12:59:29.378; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=lo+más+bueno+que&rows=50&wt=json} hits=11 status=0 QTime=6 
+INFO  - 2015-09-17 12:59:53.022; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=y&rows=50&wt=json} hits=305 status=0 QTime=0 
+INFO  - 2015-09-17 13:00:11.517; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=y+entonces+yo+les+pareció+muy+grande&rows=50&wt=json} hits=358 status=0 QTime=16 
+INFO  - 2015-09-17 13:01:56.904; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=los+tres+meses+y+ya+después+si+yo+calzó+bien+entonces+comienza&rows=50&wt=json} hits=351 status=0 QTime=16 
+INFO  - 2015-09-17 13:08:06.568; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=el+hermano+mayor+de+Gloria+que+tiene+como+36+no+no+lo+no+lo+soporta+y&rows=50&wt=json} hits=1569 status=0 QTime=21 
+INFO  - 2015-09-17 13:08:17.408; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=35&rows=50&wt=json} hits=7 status=0 QTime=1 
+INFO  - 2015-09-17 13:09:32.932; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pero+dilo+fuerte+fuerte&rows=50&wt=json} hits=10 status=0 QTime=3 
+INFO  - 2015-09-17 13:12:09.369; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=es+un+poco&rows=50&wt=json} hits=78 status=0 QTime=2 
+INFO  - 2015-09-17 13:12:16.305; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=la+familia+es+de+nadie&rows=50&wt=json} hits=1374 status=0 QTime=6 
+INFO  - 2015-09-17 13:12:45.140; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Si+amas&rows=50&wt=json} hits=1 status=0 QTime=4 
+INFO  - 2015-09-17 13:13:04.022; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=y&rows=50&wt=json} hits=305 status=0 QTime=0 
+INFO  - 2015-09-17 13:13:28.538; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=tonces+como+los+viejos+de+antes+entonces&rows=50&wt=json} hits=1249 status=0 QTime=12 
+INFO  - 2015-09-17 13:13:33.668; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Gloria+entonces&rows=50&wt=json} hits=0 status=0 QTime=8 
+INFO  - 2015-09-17 13:14:13.338; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=yo+también+pero+ella&rows=50&wt=json} hits=2 status=0 QTime=5 
+INFO  - 2015-09-17 14:52:12.042; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=8 
+INFO  - 2015-09-17 18:11:55.298; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=12 
+INFO  - 2015-09-17 18:28:12.703; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 18:28:23.718; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=mantekilla&rows=50&wt=json} hits=0 status=0 QTime=8 
+INFO  - 2015-09-17 18:28:27.944; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 18:28:41.529; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Mandingo&rows=50&wt=json} hits=0 status=0 QTime=3 
+INFO  - 2015-09-17 18:28:58.529; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Enzo+holandés&rows=50&wt=json} hits=0 status=0 QTime=5 
+INFO  - 2015-09-17 18:29:08.563; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=vino+rosado&rows=50&wt=json} hits=20 status=0 QTime=2 
+INFO  - 2015-09-17 18:29:24.064; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 18:29:32.529; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=mantequilla&rows=50&wt=json} hits=51 status=0 QTime=2 
+INFO  - 2015-09-17 18:29:45.327; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=USA&rows=50&wt=json} hits=2 status=0 QTime=2 
+INFO  - 2015-09-17 18:29:56.190; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Hotmail&rows=50&wt=json} hits=0 status=0 QTime=3 
+INFO  - 2015-09-17 18:30:03.045; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-17 18:30:09.495; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=1 
+INFO  - 2015-09-17 18:30:21.579; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=culotte&rows=50&wt=json} hits=0 status=0 QTime=3 
+INFO  - 2015-09-17 18:30:28.073; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=chocolate&rows=50&wt=json} hits=239 status=0 QTime=2 
+INFO  - 2015-09-17 18:32:34.504; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=sino&rows=50&wt=json} hits=0 status=0 QTime=2 
+INFO  - 2015-09-17 18:33:04.307; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=vinotinto+videos&rows=50&wt=json} hits=0 status=0 QTime=6 
+INFO  - 2015-09-17 18:34:54.703; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Roger+schroeder&rows=50&wt=json} hits=0 status=0 QTime=5 
+INFO  - 2015-09-17 18:45:44.168; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=y+Pon&rows=50&wt=json} hits=305 status=0 QTime=1 
+INFO  - 2015-09-18 09:11:26.235; org.eclipse.jetty.server.Server; Graceful shutdown SocketConnector@0.0.0.0:8983
+INFO  - 2015-09-18 09:11:26.241; org.eclipse.jetty.server.Server; Graceful shutdown o.e.j.w.WebAppContext{/solr,file:/Users/carlos/master-chef/solr-4.9.1/example/solr-webapp/webapp/},/Users/carlos/master-chef/solr-4.9.1/example/webapps/solr.war
+INFO  - 2015-09-18 09:11:27.245; org.apache.solr.core.CoreContainer; Shutting down CoreContainer instance=1714113641
+INFO  - 2015-09-18 09:11:27.247; org.apache.solr.core.SolrCore; [collection1]  CLOSING SolrCore org.apache.solr.core.SolrCore@78a1b76
+INFO  - 2015-09-18 09:11:27.252; org.apache.solr.update.DirectUpdateHandler2; closing DirectUpdateHandler2{commits=0,autocommit maxTime=15000ms,autocommits=0,soft autocommits=0,optimizes=0,rollbacks=0,expungeDeletes=0,docsPending=0,adds=0,deletesById=0,deletesByQuery=0,errors=0,cumulative_adds=0,cumulative_deletesById=0,cumulative_deletesByQuery=0,cumulative_errors=0,transaction_logs_total_size=132370,transaction_logs_total_number=1}
+INFO  - 2015-09-18 09:11:27.253; org.apache.solr.update.SolrCoreState; Closing SolrCoreState
+INFO  - 2015-09-18 09:11:27.253; org.apache.solr.update.DefaultSolrCoreState; SolrCoreState ref count has reached 0 - closing IndexWriter
+INFO  - 2015-09-18 09:11:27.253; org.apache.solr.update.DefaultSolrCoreState; closing IndexWriter with IndexWriterCloser
+INFO  - 2015-09-18 09:11:27.269; org.apache.solr.core.SolrCore; [collection1] Closing main searcher on request.
+INFO  - 2015-09-18 09:11:27.280; org.apache.solr.core.CachingDirectoryFactory; Closing NRTCachingDirectoryFactory - 2 directories currently being tracked
+INFO  - 2015-09-18 09:11:27.282; org.apache.solr.core.CachingDirectoryFactory; looking to close /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index [CachedDir<<refCount=0;path=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index;done=false>>]
+INFO  - 2015-09-18 09:11:27.283; org.apache.solr.core.CachingDirectoryFactory; Closing directory: /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index
+INFO  - 2015-09-18 09:11:27.283; org.apache.solr.core.CachingDirectoryFactory; looking to close /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data [CachedDir<<refCount=0;path=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data;done=false>>]
+INFO  - 2015-09-18 09:11:27.284; org.apache.solr.core.CachingDirectoryFactory; Closing directory: /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data
+INFO  - 2015-09-18 09:11:27.290; org.eclipse.jetty.server.handler.ContextHandler; stopped o.e.j.w.WebAppContext{/solr,file:/Users/carlos/master-chef/solr-4.9.1/example/solr-webapp/webapp/},/Users/carlos/master-chef/solr-4.9.1/example/webapps/solr.war
+INFO  - 2015-09-18 11:18:43.395; org.eclipse.jetty.server.Server; jetty-8.1.10.v20130312
+INFO  - 2015-09-18 11:18:43.422; org.eclipse.jetty.deploy.providers.ScanningAppProvider; Deployment monitor /Users/carlos/master-chef/solr-4.9.1/example/contexts at interval 0
+INFO  - 2015-09-18 11:18:43.427; org.eclipse.jetty.deploy.DeploymentManager; Deployable added: /Users/carlos/master-chef/solr-4.9.1/example/contexts/solr-jetty-context.xml
+INFO  - 2015-09-18 11:18:44.445; org.eclipse.jetty.webapp.StandardDescriptorProcessor; NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
+INFO  - 2015-09-18 11:18:44.500; org.apache.solr.servlet.SolrDispatchFilter; SolrDispatchFilter.init()
+INFO  - 2015-09-18 11:18:44.513; org.apache.solr.core.SolrResourceLoader; JNDI not configured for solr (NoInitialContextEx)
+INFO  - 2015-09-18 11:18:44.514; org.apache.solr.core.SolrResourceLoader; solr home defaulted to 'solr/' (could not find system property or JNDI)
+INFO  - 2015-09-18 11:18:44.515; org.apache.solr.core.SolrResourceLoader; new SolrResourceLoader for directory: 'solr/'
+INFO  - 2015-09-18 11:18:44.616; org.apache.solr.core.ConfigSolr; Loading container configuration from /Users/carlos/master-chef/solr-4.9.1/example/solr/solr.xml
+INFO  - 2015-09-18 11:18:44.736; org.apache.solr.core.CorePropertiesLocator; Config-defined core root directory: /Users/carlos/master-chef/solr-4.9.1/example/solr
+INFO  - 2015-09-18 11:18:44.745; org.apache.solr.core.CoreContainer; New CoreContainer 1714113641
+INFO  - 2015-09-18 11:18:44.746; org.apache.solr.core.CoreContainer; Loading cores into CoreContainer [instanceDir=solr/]
+INFO  - 2015-09-18 11:18:44.755; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting socketTimeout to: 0
+INFO  - 2015-09-18 11:18:44.756; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting urlScheme to: null
+INFO  - 2015-09-18 11:18:44.759; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting connTimeout to: 0
+INFO  - 2015-09-18 11:18:44.760; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting maxConnectionsPerHost to: 20
+INFO  - 2015-09-18 11:18:44.761; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting corePoolSize to: 0
+INFO  - 2015-09-18 11:18:44.762; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting maximumPoolSize to: 2147483647
+INFO  - 2015-09-18 11:18:44.762; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting maxThreadIdleTime to: 5
+INFO  - 2015-09-18 11:18:44.762; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting sizeOfQueue to: -1
+INFO  - 2015-09-18 11:18:44.762; org.apache.solr.handler.component.HttpShardHandlerFactory; Setting fairnessPolicy to: false
+INFO  - 2015-09-18 11:18:44.862; org.apache.solr.logging.LogWatcher; SLF4J impl is org.slf4j.impl.Log4jLoggerFactory
+INFO  - 2015-09-18 11:18:44.863; org.apache.solr.logging.LogWatcher; Registering Log Listener [Log4j (org.slf4j.impl.Log4jLoggerFactory)]
+INFO  - 2015-09-18 11:18:44.864; org.apache.solr.core.CoreContainer; Host Name: 
+INFO  - 2015-09-18 11:18:44.902; org.apache.solr.core.CorePropertiesLocator; Looking for core definitions underneath /Users/carlos/master-chef/solr-4.9.1/example/solr
+INFO  - 2015-09-18 11:18:44.911; org.apache.solr.core.CorePropertiesLocator; Found core collection1 in /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/
+INFO  - 2015-09-18 11:18:44.912; org.apache.solr.core.CorePropertiesLocator; Found core products in /Users/carlos/master-chef/solr-4.9.1/example/solr/products/
+INFO  - 2015-09-18 11:18:44.913; org.apache.solr.core.CorePropertiesLocator; Found 2 core definitions
+INFO  - 2015-09-18 11:18:44.915; org.apache.solr.core.SolrResourceLoader; new SolrResourceLoader for directory: '/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/'
+INFO  - 2015-09-18 11:18:44.915; org.apache.solr.core.SolrResourceLoader; new SolrResourceLoader for directory: '/Users/carlos/master-chef/solr-4.9.1/example/solr/products/'
+ERROR - 2015-09-18 11:18:44.923; org.apache.solr.core.CoreContainer; Unable to create core: products
+org.apache.solr.common.SolrException: Could not load core configuration for core products
+	at org.apache.solr.core.ConfigSetService.getConfig(ConfigSetService.java:66)
+	at org.apache.solr.core.CoreContainer.create(CoreContainer.java:554)
+	at org.apache.solr.core.CoreContainer$1.call(CoreContainer.java:261)
+	at org.apache.solr.core.CoreContainer$1.call(CoreContainer.java:253)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.solr.common.SolrException: Error loading solr config from /Users/carlos/master-chef/solr-4.9.1/example/solr/products/solrconfig.xml
+	at org.apache.solr.core.SolrConfig.readFromResourceLoader(SolrConfig.java:148)
+	at org.apache.solr.core.ConfigSetService.createSolrConfig(ConfigSetService.java:79)
+	at org.apache.solr.core.ConfigSetService.getConfig(ConfigSetService.java:61)
+	... 9 more
+Caused by: java.io.IOException: Can't find resource 'solrconfig.xml' in classpath or '/Users/carlos/master-chef/solr-4.9.1/example/solr/products/conf'
+	at org.apache.solr.core.SolrResourceLoader.openResource(SolrResourceLoader.java:362)
+	at org.apache.solr.core.SolrResourceLoader.openConfig(SolrResourceLoader.java:308)
+	at org.apache.solr.core.Config.<init>(Config.java:116)
+	at org.apache.solr.core.Config.<init>(Config.java:86)
+	at org.apache.solr.core.SolrConfig.<init>(SolrConfig.java:161)
+	at org.apache.solr.core.SolrConfig.readFromResourceLoader(SolrConfig.java:144)
+	... 11 more
+ERROR - 2015-09-18 11:18:44.926; org.apache.solr.common.SolrException; null:org.apache.solr.common.SolrException: Unable to create core: products
+	at org.apache.solr.core.CoreContainer.recordAndThrow(CoreContainer.java:911)
+	at org.apache.solr.core.CoreContainer.create(CoreContainer.java:568)
+	at org.apache.solr.core.CoreContainer$1.call(CoreContainer.java:261)
+	at org.apache.solr.core.CoreContainer$1.call(CoreContainer.java:253)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.solr.common.SolrException: Could not load core configuration for core products
+	at org.apache.solr.core.ConfigSetService.getConfig(ConfigSetService.java:66)
+	at org.apache.solr.core.CoreContainer.create(CoreContainer.java:554)
+	... 8 more
+Caused by: org.apache.solr.common.SolrException: Error loading solr config from /Users/carlos/master-chef/solr-4.9.1/example/solr/products/solrconfig.xml
+	at org.apache.solr.core.SolrConfig.readFromResourceLoader(SolrConfig.java:148)
+	at org.apache.solr.core.ConfigSetService.createSolrConfig(ConfigSetService.java:79)
+	at org.apache.solr.core.ConfigSetService.getConfig(ConfigSetService.java:61)
+	... 9 more
+Caused by: java.io.IOException: Can't find resource 'solrconfig.xml' in classpath or '/Users/carlos/master-chef/solr-4.9.1/example/solr/products/conf'
+	at org.apache.solr.core.SolrResourceLoader.openResource(SolrResourceLoader.java:362)
+	at org.apache.solr.core.SolrResourceLoader.openConfig(SolrResourceLoader.java:308)
+	at org.apache.solr.core.Config.<init>(Config.java:116)
+	at org.apache.solr.core.Config.<init>(Config.java:86)
+	at org.apache.solr.core.SolrConfig.<init>(SolrConfig.java:161)
+	at org.apache.solr.core.SolrConfig.readFromResourceLoader(SolrConfig.java:144)
+	... 11 more
+
+INFO  - 2015-09-18 11:18:44.969; org.apache.solr.core.SolrConfig; Adding specified lib dirs to ClassLoader
+INFO  - 2015-09-18 11:18:44.971; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/apache-mime4j-core-0.7.2.jar' to classloader
+INFO  - 2015-09-18 11:18:44.971; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/apache-mime4j-dom-0.7.2.jar' to classloader
+INFO  - 2015-09-18 11:18:44.972; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/aspectjrt-1.6.11.jar' to classloader
+INFO  - 2015-09-18 11:18:44.972; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/bcmail-jdk15-1.45.jar' to classloader
+INFO  - 2015-09-18 11:18:44.972; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/bcprov-jdk15-1.45.jar' to classloader
+INFO  - 2015-09-18 11:18:44.972; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/boilerpipe-1.1.0.jar' to classloader
+INFO  - 2015-09-18 11:18:44.973; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/commons-compress-1.7.jar' to classloader
+INFO  - 2015-09-18 11:18:44.973; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/dom4j-1.6.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.973; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/fontbox-1.8.4.jar' to classloader
+INFO  - 2015-09-18 11:18:44.973; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/icu4j-53.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.974; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/isoparser-1.0-RC-1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.974; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/jdom-1.0.jar' to classloader
+INFO  - 2015-09-18 11:18:44.974; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/jempbox-1.8.4.jar' to classloader
+INFO  - 2015-09-18 11:18:44.974; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/jhighlight-1.0.jar' to classloader
+INFO  - 2015-09-18 11:18:44.975; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/juniversalchardet-1.0.3.jar' to classloader
+INFO  - 2015-09-18 11:18:44.975; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/metadata-extractor-2.6.2.jar' to classloader
+INFO  - 2015-09-18 11:18:44.975; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/pdfbox-1.8.4.jar' to classloader
+INFO  - 2015-09-18 11:18:44.975; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/poi-3.10.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.975; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/poi-ooxml-3.10.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.976; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/poi-ooxml-schemas-3.10.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.976; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/poi-scratchpad-3.10.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.976; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/rome-0.9.jar' to classloader
+INFO  - 2015-09-18 11:18:44.976; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/tagsoup-1.2.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.977; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/tika-core-1.5.jar' to classloader
+INFO  - 2015-09-18 11:18:44.977; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/tika-parsers-1.5.jar' to classloader
+INFO  - 2015-09-18 11:18:44.977; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/tika-xmp-1.5.jar' to classloader
+INFO  - 2015-09-18 11:18:44.978; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/vorbis-java-core-0.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.978; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/vorbis-java-tika-0.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.978; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/xercesImpl-2.9.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.978; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/xmlbeans-2.6.0.jar' to classloader
+INFO  - 2015-09-18 11:18:44.979; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/xmpcore-5.1.2.jar' to classloader
+INFO  - 2015-09-18 11:18:44.979; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/extraction/lib/xz-1.4.jar' to classloader
+INFO  - 2015-09-18 11:18:44.980; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/dist/solr-cell-4.9.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.981; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/attributes-binder-1.2.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.981; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/carrot2-mini-3.9.0.jar' to classloader
+INFO  - 2015-09-18 11:18:44.982; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/hppc-0.5.2.jar' to classloader
+INFO  - 2015-09-18 11:18:44.982; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/jackson-core-asl-1.9.13.jar' to classloader
+INFO  - 2015-09-18 11:18:44.982; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/jackson-mapper-asl-1.9.13.jar' to classloader
+INFO  - 2015-09-18 11:18:44.982; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/mahout-collections-1.0.jar' to classloader
+INFO  - 2015-09-18 11:18:44.983; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/mahout-math-0.6.jar' to classloader
+INFO  - 2015-09-18 11:18:44.983; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/clustering/lib/simple-xml-2.7.jar' to classloader
+INFO  - 2015-09-18 11:18:44.984; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/dist/solr-clustering-4.9.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.984; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/langid/lib/jsonic-1.2.7.jar' to classloader
+INFO  - 2015-09-18 11:18:44.984; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/langid/lib/langdetect-1.1-20120112.jar' to classloader
+INFO  - 2015-09-18 11:18:44.985; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/dist/solr-langid-4.9.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.986; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/velocity/lib/commons-beanutils-1.8.3.jar' to classloader
+INFO  - 2015-09-18 11:18:44.986; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/velocity/lib/commons-collections-3.2.1.jar' to classloader
+INFO  - 2015-09-18 11:18:44.986; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/velocity/lib/velocity-1.7.jar' to classloader
+INFO  - 2015-09-18 11:18:44.986; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/contrib/velocity/lib/velocity-tools-2.0.jar' to classloader
+INFO  - 2015-09-18 11:18:44.987; org.apache.solr.core.SolrResourceLoader; Adding 'file:/Users/carlos/master-chef/solr-4.9.1/dist/solr-velocity-4.9.1.jar' to classloader
+INFO  - 2015-09-18 11:18:45.098; org.apache.solr.update.SolrIndexConfig; IndexWriter infoStream solr logging is enabled
+INFO  - 2015-09-18 11:18:45.103; org.apache.solr.core.SolrConfig; Using Lucene MatchVersion: LUCENE_4_9
+INFO  - 2015-09-18 11:18:45.196; org.apache.solr.core.SolrConfig; Loaded SolrConfig: solrconfig.xml
+INFO  - 2015-09-18 11:18:45.202; org.apache.solr.schema.IndexSchema; Reading Solr Schema from schema.xml
+INFO  - 2015-09-18 11:18:45.239; org.apache.solr.schema.IndexSchema; [collection1] Schema name=example
+INFO  - 2015-09-18 11:18:45.636; org.apache.solr.schema.IndexSchema; unique key field: id
+INFO  - 2015-09-18 11:18:45.712; org.apache.solr.rest.RestManager$Registry; Registered ManagedResource impl org.apache.solr.rest.schema.analysis.ManagedWordSetResource for path /schema/analysis/stopwords/english
+INFO  - 2015-09-18 11:18:45.713; org.apache.solr.rest.RestManager$Registry; Registered ManagedResource impl org.apache.solr.rest.schema.analysis.ManagedSynonymFilterFactory$SynonymManager for path /schema/analysis/synonyms/english
+INFO  - 2015-09-18 11:18:45.741; org.apache.solr.schema.FileExchangeRateProvider; Reloading exchange rates from file currency.xml
+INFO  - 2015-09-18 11:18:45.746; org.apache.solr.schema.FileExchangeRateProvider; Reloading exchange rates from file currency.xml
+INFO  - 2015-09-18 11:18:45.815; org.apache.solr.core.CoreContainer; Creating SolrCore 'collection1' using configuration from instancedir /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/
+INFO  - 2015-09-18 11:18:45.870; org.apache.solr.core.SolrCore; solr.NRTCachingDirectoryFactory
+INFO  - 2015-09-18 11:18:45.877; org.apache.solr.core.SolrCore; [collection1] Opening new SolrCore at /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/, dataDir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/
+INFO  - 2015-09-18 11:18:45.879; org.apache.solr.core.JmxMonitoredMap; No JMX servers found, not exposing Solr information with JMX.
+INFO  - 2015-09-18 11:18:45.883; org.apache.solr.core.SolrCore; [collection1] Added SolrEventListener for newSearcher: org.apache.solr.core.QuerySenderListener{queries=[]}
+INFO  - 2015-09-18 11:18:45.883; org.apache.solr.core.SolrCore; [collection1] Added SolrEventListener for firstSearcher: org.apache.solr.core.QuerySenderListener{queries=[{q=static firstSearcher warming in solrconfig.xml}]}
+INFO  - 2015-09-18 11:18:45.899; org.apache.solr.core.CachingDirectoryFactory; return new directory for /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data
+INFO  - 2015-09-18 11:18:45.914; org.apache.solr.core.SolrCore; New index directory detected: old=null new=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index/
+INFO  - 2015-09-18 11:18:45.915; org.apache.solr.core.CachingDirectoryFactory; return new directory for /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index
+INFO  - 2015-09-18 11:18:45.932; org.apache.solr.core.SolrCore; created json: solr.JSONResponseWriter
+INFO  - 2015-09-18 11:18:45.932; org.apache.solr.core.SolrCore; adding lazy queryResponseWriter: solr.VelocityResponseWriter
+INFO  - 2015-09-18 11:18:45.933; org.apache.solr.core.SolrCore; created velocity: solr.VelocityResponseWriter
+INFO  - 2015-09-18 11:18:45.935; org.apache.solr.core.SolrCore; created xslt: solr.XSLTResponseWriter
+INFO  - 2015-09-18 11:18:45.935; org.apache.solr.response.XSLTResponseWriter; xsltCacheLifetimeSeconds=5
+INFO  - 2015-09-18 11:18:46.005; org.apache.solr.core.SolrCore; no updateRequestProcessorChain defined as default, creating implicit default
+INFO  - 2015-09-18 11:18:46.008; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.008; org.apache.solr.core.RequestHandlers; created /select: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.011; org.apache.solr.core.RequestHandlers; created /query: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.013; org.apache.solr.core.RequestHandlers; created /get: solr.RealTimeGetHandler
+INFO  - 2015-09-18 11:18:46.013; org.apache.solr.core.RequestHandlers; created /browse: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.015; org.apache.solr.core.RequestHandlers; created /update: solr.UpdateRequestHandler
+INFO  - 2015-09-18 11:18:46.015; org.apache.solr.core.RequestHandlers; created /update/json: solr.UpdateRequestHandler
+INFO  - 2015-09-18 11:18:46.015; org.apache.solr.core.RequestHandlers; created /update/csv: solr.UpdateRequestHandler
+INFO  - 2015-09-18 11:18:46.016; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.extraction.ExtractingRequestHandler
+INFO  - 2015-09-18 11:18:46.016; org.apache.solr.core.RequestHandlers; created /update/extract: solr.extraction.ExtractingRequestHandler
+INFO  - 2015-09-18 11:18:46.016; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.FieldAnalysisRequestHandler
+INFO  - 2015-09-18 11:18:46.016; org.apache.solr.core.RequestHandlers; created /analysis/field: solr.FieldAnalysisRequestHandler
+INFO  - 2015-09-18 11:18:46.016; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.DocumentAnalysisRequestHandler
+INFO  - 2015-09-18 11:18:46.016; org.apache.solr.core.RequestHandlers; created /analysis/document: solr.DocumentAnalysisRequestHandler
+INFO  - 2015-09-18 11:18:46.018; org.apache.solr.core.RequestHandlers; created /admin/: solr.admin.AdminHandlers
+INFO  - 2015-09-18 11:18:46.019; org.apache.solr.core.RequestHandlers; created /admin/ping: solr.PingRequestHandler
+INFO  - 2015-09-18 11:18:46.020; org.apache.solr.core.RequestHandlers; created /debug/dump: solr.DumpRequestHandler
+INFO  - 2015-09-18 11:18:46.030; org.apache.solr.core.RequestHandlers; created /replication: solr.ReplicationHandler
+INFO  - 2015-09-18 11:18:46.030; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.030; org.apache.solr.core.RequestHandlers; created /spell: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.030; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.031; org.apache.solr.core.RequestHandlers; created /suggest: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.031; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.031; org.apache.solr.core.RequestHandlers; created /tvrh: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.031; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.031; org.apache.solr.core.RequestHandlers; created /terms: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.031; org.apache.solr.core.RequestHandlers; adding lazy requestHandler: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.031; org.apache.solr.core.RequestHandlers; created /elevate: solr.SearchHandler
+INFO  - 2015-09-18 11:18:46.047; org.apache.solr.handler.loader.XMLLoader; xsltCacheLifetimeSeconds=60
+INFO  - 2015-09-18 11:18:46.049; org.apache.solr.handler.loader.XMLLoader; xsltCacheLifetimeSeconds=60
+INFO  - 2015-09-18 11:18:46.049; org.apache.solr.handler.loader.XMLLoader; xsltCacheLifetimeSeconds=60
+INFO  - 2015-09-18 11:18:46.072; org.apache.solr.update.CommitTracker; Hard AutoCommit: if uncommited for 15000ms; 
+INFO  - 2015-09-18 11:18:46.073; org.apache.solr.update.CommitTracker; Soft AutoCommit: disabled
+INFO  - 2015-09-18 11:18:46.121; org.apache.solr.core.SolrDeletionPolicy; SolrDeletionPolicy.onInit: commits: num=1
+	commit{dir=NRTCachingDirectory(MMapDirectory@/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index lockFactory=NativeFSLockFactory@/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index; maxCacheMB=48.0 maxMergeSizeMB=4.0),segFN=segments_4,generation=4}
+INFO  - 2015-09-18 11:18:46.121; org.apache.solr.core.SolrDeletionPolicy; newest commit generation = 4
+INFO  - 2015-09-18 11:18:46.150; org.apache.solr.search.SolrIndexSearcher; Opening Searcher@3dfa00be[collection1] main
+INFO  - 2015-09-18 11:18:46.156; org.apache.solr.rest.ManagedResourceStorage$FileStorageIO; File-based storage initialized to use dir: /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+INFO  - 2015-09-18 11:18:46.156; org.apache.solr.rest.RestManager; Initializing RestManager with initArgs: {storageDir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf/}
+INFO  - 2015-09-18 11:18:46.157; org.apache.solr.rest.ManagedResourceStorage; Reading _rest_managed.json using file:dir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+WARN  - 2015-09-18 11:18:46.158; org.apache.solr.rest.ManagedResource; No stored data found for /rest/managed
+WARN  - 2015-09-18 11:18:46.158; org.apache.solr.rest.ManagedResource; No registered observers for /rest/managed
+INFO  - 2015-09-18 11:18:46.158; org.apache.solr.rest.RestManager; Initializing 2 registered ManagedResources
+INFO  - 2015-09-18 11:18:46.158; org.apache.solr.rest.ManagedResourceStorage; Reading _schema_analysis_stopwords_english.json using file:dir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+INFO  - 2015-09-18 11:18:46.162; org.apache.solr.rest.ManagedResourceStorage; Loaded LinkedHashMap at path _schema_analysis_stopwords_english.json using file:dir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+INFO  - 2015-09-18 11:18:46.162; org.apache.solr.rest.ManagedResource; Loaded initArgs {ignoreCase=true} for /schema/analysis/stopwords/english
+INFO  - 2015-09-18 11:18:46.162; org.apache.solr.rest.schema.analysis.ManagedWordSetResource; Loaded 35 words for /schema/analysis/stopwords/english
+INFO  - 2015-09-18 11:18:46.162; org.apache.solr.rest.ManagedResource; Notified 1 observers of /schema/analysis/stopwords/english
+INFO  - 2015-09-18 11:18:46.163; org.apache.solr.rest.ManagedResourceStorage; Reading _schema_analysis_synonyms_english.json using file:dir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+INFO  - 2015-09-18 11:18:46.163; org.apache.solr.rest.ManagedResourceStorage; Loaded LinkedHashMap at path _schema_analysis_synonyms_english.json using file:dir=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf
+INFO  - 2015-09-18 11:18:46.164; org.apache.solr.rest.ManagedResource; Loaded initArgs {ignoreCase=true,format=solr} for /schema/analysis/synonyms/english
+INFO  - 2015-09-18 11:18:46.164; org.apache.solr.rest.schema.analysis.ManagedSynonymFilterFactory$SynonymManager; Loaded 3 synonym mappings for /schema/analysis/synonyms/english
+INFO  - 2015-09-18 11:18:46.167; org.apache.solr.rest.ManagedResource; Notified 1 observers of /schema/analysis/synonyms/english
+INFO  - 2015-09-18 11:18:46.168; org.apache.solr.handler.component.SpellCheckComponent; Initializing spell checkers
+INFO  - 2015-09-18 11:18:46.174; org.apache.solr.spelling.DirectSolrSpellChecker; init: {name=default,field=text,classname=solr.DirectSolrSpellChecker,distanceMeasure=internal,accuracy=0.5,maxEdits=2,minPrefix=1,maxInspections=5,minQueryLength=4,maxQueryFrequency=0.01}
+INFO  - 2015-09-18 11:18:46.177; org.apache.solr.handler.component.SpellCheckComponent; No queryConverter defined, using default converter
+INFO  - 2015-09-18 11:18:46.178; org.apache.solr.handler.component.SuggestComponent; Initializing SuggestComponent
+INFO  - 2015-09-18 11:18:46.180; org.apache.solr.spelling.suggest.SolrSuggester; init: {name=mySuggester,lookupImpl=FuzzyLookupFactory,dictionaryImpl=DocumentDictionaryFactory,field=cat,weightField=price,suggestAnalyzerFieldType=string}
+INFO  - 2015-09-18 11:18:46.188; org.apache.solr.spelling.suggest.SolrSuggester; Dictionary loaded with params: {name=mySuggester,lookupImpl=FuzzyLookupFactory,dictionaryImpl=DocumentDictionaryFactory,field=cat,weightField=price,suggestAnalyzerFieldType=string}
+INFO  - 2015-09-18 11:18:46.189; org.apache.solr.handler.component.QueryElevationComponent; Loading QueryElevation from: /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/conf/elevate.xml
+INFO  - 2015-09-18 11:18:46.214; org.apache.solr.handler.ReplicationHandler; Commits will be reserved for  10000
+INFO  - 2015-09-18 11:18:46.215; org.apache.solr.core.QuerySenderListener; QuerySenderListener sending requests to Searcher@3dfa00be[collection1] main{StandardDirectoryReader(segments_4:30:nrt _b(4.9):C13813 _a(4.9):C954)}
+INFO  - 2015-09-18 11:18:46.215; org.apache.solr.core.CoreContainer; registering core: collection1
+INFO  - 2015-09-18 11:18:46.216; org.apache.solr.servlet.SolrDispatchFilter; user.dir=/Users/carlos/master-chef/solr-4.9.1/example
+INFO  - 2015-09-18 11:18:46.217; org.apache.solr.servlet.SolrDispatchFilter; SolrDispatchFilter.init() done
+INFO  - 2015-09-18 11:18:46.246; org.eclipse.jetty.server.AbstractConnector; Started SocketConnector@0.0.0.0:8983
+INFO  - 2015-09-18 11:18:46.343; org.apache.solr.core.SolrCore; [collection1] webapp=null path=null params={q=static+firstSearcher+warming+in+solrconfig.xml&distrib=false&event=firstSearcher} hits=11 status=0 QTime=127 
+INFO  - 2015-09-18 11:18:46.355; org.apache.solr.core.QuerySenderListener; QuerySenderListener done.
+INFO  - 2015-09-18 11:18:46.355; org.apache.solr.handler.component.SpellCheckComponent$SpellCheckerListener; Loading spell index for spellchecker: default
+INFO  - 2015-09-18 11:18:46.356; org.apache.solr.handler.component.SpellCheckComponent$SpellCheckerListener; Loading spell index for spellchecker: wordbreak
+INFO  - 2015-09-18 11:18:46.356; org.apache.solr.handler.component.SuggestComponent$SuggesterListener; Loading suggester index for: mySuggester
+INFO  - 2015-09-18 11:18:46.356; org.apache.solr.spelling.suggest.SolrSuggester; reload()
+INFO  - 2015-09-18 11:18:46.356; org.apache.solr.spelling.suggest.SolrSuggester; build()
+INFO  - 2015-09-18 11:18:46.612; org.apache.solr.core.SolrCore; [collection1] Registered new searcher Searcher@3dfa00be[collection1] main{StandardDirectoryReader(segments_4:30:nrt _b(4.9):C13813 _a(4.9):C954)}
+INFO  - 2015-09-18 11:19:40.523; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=5 
+INFO  - 2015-09-18 11:19:52.110; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=3 
+INFO  - 2015-09-18 11:19:58.441; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Pepsi&rows=50&wt=json} hits=5 status=0 QTime=3 
+INFO  - 2015-09-18 11:20:06.797; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=mantequilla&rows=50&wt=json} hits=51 status=0 QTime=3 
+INFO  - 2015-09-18 11:20:27.854; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=mami&rows=50&wt=json} hits=0 status=0 QTime=7 
+INFO  - 2015-09-18 11:21:10.439; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-18 11:21:23.345; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=la+mí&rows=50&wt=json} hits=105 status=0 QTime=4 
+INFO  - 2015-09-18 11:21:52.068; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=coca+cola&rows=50&wt=json} hits=24 status=0 QTime=1 
+INFO  - 2015-09-18 11:22:20.381; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=alamy&rows=50&wt=json} hits=0 status=0 QTime=8 
+INFO  - 2015-09-18 11:47:45.707; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=salsa+de+tomate&rows=50&wt=json} hits=1456 status=0 QTime=19 
+INFO  - 2015-09-18 11:47:53.958; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=venís&rows=50&wt=json} hits=0 status=0 QTime=10 
+INFO  - 2015-09-18 11:48:03.267; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=peperoni&rows=50&wt=json} hits=2 status=0 QTime=1 
+INFO  - 2015-09-18 11:48:10.438; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=Juan&rows=50&wt=json} hits=5 status=0 QTime=2 
+INFO  - 2015-09-18 11:48:29.664; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=pimienta&rows=50&wt=json} hits=27 status=0 QTime=1 
+INFO  - 2015-09-18 11:48:36.964; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=bolsas+de+basura&rows=50&wt=json} hits=1268 status=0 QTime=5 
+INFO  - 2015-09-18 11:48:43.010; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=basura&rows=50&wt=json} hits=27 status=0 QTime=1 
+INFO  - 2015-09-18 11:48:48.949; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=bolsa+de+basura&rows=50&wt=json} hits=1453 status=0 QTime=4 
+INFO  - 2015-09-18 11:49:06.648; org.apache.solr.core.SolrCore; [collection1] webapp=/solr path=/select params={q=caramelo&rows=50&wt=json} hits=22 status=0 QTime=1 
+INFO  - 2015-09-18 14:05:21.944; org.eclipse.jetty.server.Server; Graceful shutdown SocketConnector@0.0.0.0:8983
+INFO  - 2015-09-18 14:05:21.949; org.eclipse.jetty.server.Server; Graceful shutdown o.e.j.w.WebAppContext{/solr,file:/Users/carlos/master-chef/solr-4.9.1/example/solr-webapp/webapp/},/Users/carlos/master-chef/solr-4.9.1/example/webapps/solr.war
+INFO  - 2015-09-18 14:05:22.957; org.apache.solr.core.CoreContainer; Shutting down CoreContainer instance=1714113641
+INFO  - 2015-09-18 14:05:22.961; org.apache.solr.core.SolrCore; [collection1]  CLOSING SolrCore org.apache.solr.core.SolrCore@6f5fced7
+INFO  - 2015-09-18 14:05:22.964; org.apache.solr.update.DirectUpdateHandler2; closing DirectUpdateHandler2{commits=0,autocommit maxTime=15000ms,autocommits=0,soft autocommits=0,optimizes=0,rollbacks=0,expungeDeletes=0,docsPending=0,adds=0,deletesById=0,deletesByQuery=0,errors=0,cumulative_adds=0,cumulative_deletesById=0,cumulative_deletesByQuery=0,cumulative_errors=0,transaction_logs_total_size=132370,transaction_logs_total_number=1}
+INFO  - 2015-09-18 14:05:22.965; org.apache.solr.update.SolrCoreState; Closing SolrCoreState
+INFO  - 2015-09-18 14:05:22.965; org.apache.solr.update.DefaultSolrCoreState; SolrCoreState ref count has reached 0 - closing IndexWriter
+INFO  - 2015-09-18 14:05:22.966; org.apache.solr.update.DefaultSolrCoreState; closing IndexWriter with IndexWriterCloser
+INFO  - 2015-09-18 14:05:22.973; org.apache.solr.core.SolrCore; [collection1] Closing main searcher on request.
+INFO  - 2015-09-18 14:05:22.980; org.apache.solr.core.CachingDirectoryFactory; Closing NRTCachingDirectoryFactory - 2 directories currently being tracked
+INFO  - 2015-09-18 14:05:22.982; org.apache.solr.core.CachingDirectoryFactory; looking to close /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index [CachedDir<<refCount=0;path=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index;done=false>>]
+INFO  - 2015-09-18 14:05:22.982; org.apache.solr.core.CachingDirectoryFactory; Closing directory: /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data/index
+INFO  - 2015-09-18 14:05:22.983; org.apache.solr.core.CachingDirectoryFactory; looking to close /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data [CachedDir<<refCount=0;path=/Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data;done=false>>]
+INFO  - 2015-09-18 14:05:22.983; org.apache.solr.core.CachingDirectoryFactory; Closing directory: /Users/carlos/master-chef/solr-4.9.1/example/solr/collection1/data
+INFO  - 2015-09-18 14:05:22.987; org.eclipse.jetty.server.handler.ContextHandler; stopped o.e.j.w.WebAppContext{/solr,file:/Users/carlos/master-chef/solr-4.9.1/example/solr-webapp/webapp/},/Users/carlos/master-chef/solr-4.9.1/example/webapps/solr.war

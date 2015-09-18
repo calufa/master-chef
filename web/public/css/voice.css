@@ -26,6 +26,7 @@ body {
 	margin-left: 420px;
 	width: 620px;
 	height: 100%;
+	border: 1px solid #666666;
 }
 
 #content #voiceInput{
@@ -39,14 +40,30 @@ body {
 	padding-left: 10px;
 	padding-right: 10px;
 	position: relative;
-	top: 20px;
+	top: 50px;
 	z-index: 900;
+}
+
+#content #resultsCount{
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #F06AA7;
+	display: inline-block;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	position: relative;
+	top: 50px;
+	left: -1px;
+	z-index: 900;
+	opacity: 0;
 }
 
 #content #header {
 	width: 620px;
-	height: 70px;
-	margin-top: 75px;
+	height: 50px;
 }
 
 #content #header #homeBtn {
@@ -82,5 +99,29 @@ body {
 	vertical-align: top;
 	margin-top: -49px;
 	display: inline-block;
-	background-blend-mode: multiply;
+}
+
+#results {
+	background: url(/assets/imgs/productsBG.svg) repeat-y top;
+	height: 580px;
+	position: relative;
+	top: -65px;
+	overflow-y: scroll;
+	mix-blend-mode: multiply;
+}
+
+#results #products {
+	position: relative;
+	top: 50px;
+}
+
+#results #products .resultTitle {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+	background-color: #575757;
+	display: inline-block;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
 }

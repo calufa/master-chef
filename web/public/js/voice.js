@@ -34,15 +34,13 @@ function volumeListener(){
     volAccum += vol;
     accum++;
 
-    if(accum > 20){
+    if(accum > 10){
 
       if(volAccum / accum < 0.1){
 
         witMic.stop();
 
         voiceActive = false;
-
-        onVoiceInputEnd();
 
       }
 
@@ -63,9 +61,13 @@ witMic.onready = function(){};
 witMic.onaudiostart = function(){};
 witMic.onaudioend = function(){};
 witMic.onresult = function(intent, entities){
+
+  console.log(JSON.stringify(entities));
   
   if(entities != null && entities.product != null){
     search(entities.product.value);
+  }else{
+    onVoiceInputEnd();
   }
 
 };
@@ -77,6 +79,10 @@ witMic.ondisconnected = function(){};
 witMic.connect(token);
 
 function search(query){
+
+  $("#products").html("");
+  $("#products").css("opacity", 0);
+  $("#products").css("top", 200);
 
   $("#voiceInput").html("\"" + query.toUpperCase() + "\"");
 
@@ -93,20 +99,27 @@ function search(query){
 }
 
 function onSearchResult(list){
+
+  onVoiceInputEnd();
   
-  $("#products").html("");
+  $("#resultsCount").html(list.length + " RESULTADOS");
  
   for(i = 0; i < list.length; i++){
     
     var title = list[i].title[0];
     var img = list[i].img[0];
 
-    $("#products").append("<img src=\"/assets/products/" + img + "\"/><br>");
+    var html = "<div class=\"resultTitle\">" + title.toUpperCase() + "</div><br>";
+    html += "<img src=\"/assets/products/" + img + "\"/>";
+    html += "<br><br><br>";
+
+    $("#products").append(html);
 
   }
 
-}
+  $("#products").animate({opacity: 1, top: 50}, 500, "easeOutQuart");
 
+}
 
 function voiceInputStart(){
 
@@ -115,6 +128,7 @@ function voiceInputStart(){
   });
 
   $("#voiceInput").animate({opacity: 0}, 400, function() {});
+  $("#resultsCount").animate({opacity: 0}, 400, function() {});
 
 }
 
@@ -130,6 +144,10 @@ function onVoiceInputEnd(){
       $("#voiceInput").animate({opacity: 1}, 300);
     }); 
 
+    $("#resultsCount").animate({opacity: 0.7}, 500, function() {});
+
   });
 
 }
+
+search("coca cola");
